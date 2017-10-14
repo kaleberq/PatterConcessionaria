@@ -16,7 +16,7 @@ Abra o projeto no NetBeans.
 
 ## Sobre o projeto
 
-. Explicação das funções de cada pattern
+#. Explicação das funções de cada pattern
 
 Pattern Strategy, pacote "Concessionaria.StrategyVeiculo"
 
