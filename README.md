@@ -20,15 +20,15 @@ Abra o projeto no NetBeans.
 
 Pattern Strategy, pacote "Concessionaria.StrategyVeiculo"
 
-. Esse pacote tem como responsabilidade mudar o movimento do veiculo.
+. Esse pacote tem como responsabilidade que faz a ação Voar, Andar, Navega.
 
 Pattern State, pacote "Concessionaria.EstadoVeiculo"
 
-. Esse pacote tem como responsabilidade controlar o estado do veiculo.
+. Esse pacote tem como responsabilidade de mostrar se o estado do veiculo esta parado ou andando.
 
 Pattern Observer, pacote "Concessionaria.ObserverVeiculo"
 
-. Esse pacote tem como responsabilidade notificar o veiculo quando é visualizado.
+. Esse pacote tem como responsabilidade notificar o veiculo quando um cliente o visualiza.
 
 Pattern Decorator, pacote "Concessionaria.DecoratorCarro"
 
