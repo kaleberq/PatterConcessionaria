@@ -16,24 +16,24 @@ Abra o projeto no NetBeans.
 
 ## Sobre o projeto
 
-#. Explicação das funções de cada pattern
+-> Explicação das funções de cada pattern
 
 Pattern Strategy, pacote "Concessionaria.StrategyVeiculo"
 
-. Esse pacote tem como responsabilidade que faz a ação Voar, Andar, Navega.
+-> Esse pacote tem como responsabilidade que faz a ação Voar, Andar, Navega.
 
 Pattern State, pacote "Concessionaria.EstadoVeiculo"
 
-. Esse pacote tem como responsabilidade de mostrar se o estado do veiculo esta parado ou andando.
+-> Esse pacote tem como responsabilidade de mostrar se o estado do veiculo esta parado ou andando.
 
 Pattern Observer, pacote "Concessionaria.ObserverVeiculo"
 
-. Esse pacote tem como responsabilidade notificar o veiculo quando um cliente o visualiza.
+-> Esse pacote tem como responsabilidade notificar o veiculo quando um cliente o visualiza.
 
 Pattern Decorator, pacote "Concessionaria.DecoratorCarro"
 
-. Esse pacote tem como responsabilidade decorar o Carro com peças.
+-> Esse pacote tem como responsabilidade decorar o Carro com peças.
 
 ## Conclusão
 
-. Esse projeto é um projeto academico que tem por objetivo a pratica com design patterns.
+-> Esse projeto é um projeto academico que tem por objetivo a pratica com design patterns.
