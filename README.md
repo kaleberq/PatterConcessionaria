@@ -8,7 +8,7 @@ Clone o projeto para sua máquina:
 
 $ git clone https://github.com/kaleberq/PatterConcessionaria.git
 
-Abra o projeto no NetBeans.
+-> Abra o projeto no NetBeans.
 
 ## Descrição
 
